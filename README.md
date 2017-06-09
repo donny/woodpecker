@@ -83,4 +83,4 @@ export default {
 
 ### Conclusion
 
-...
+I had fun playing with Vue.js and exploring how it works. It is so much easier to pick up compared to React. And actually, Vue.js can be described as a lightweight React. I will explore more Vue.js components in the future, given the [awesome](https://github.com/vuejs/awesome-vue) resources on Vue.js that we have.
