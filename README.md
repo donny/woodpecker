@@ -1,6 +1,6 @@
 # woodpecker
 
-Woodpecker is ...
+Woodpecker is a simple web site implemented using Vue.js that shows a random joke from Reddit.
 
 ### Background
 
